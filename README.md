@@ -131,7 +131,7 @@ http://localhost:3000
 
 ---
 
-## 🎓 Observações para Apresentação
+## 🎓 Resumo
 
 * O projeto utiliza arquitetura moderna com Next.js App Router
 * O banco foi modelado de acordo com os dados reais do formulário
